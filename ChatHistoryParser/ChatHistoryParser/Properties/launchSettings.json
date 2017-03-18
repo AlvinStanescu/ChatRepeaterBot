@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ChatHistoryParser": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Alvin\\Downloads\\facebook-100000775712688\\html\\messages.htm C:\\Users\\Alvin\\Desktop\\Conversations"
+    }
+  }
+}
